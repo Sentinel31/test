@@ -1,7 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
-  <foreignObject width="100" height="100">
-    <body xmlns="http://www.w3.org/1999/xhtml">
-      <script>alert(2)</script>
-    </body>
-  </foreignObject>
+<svg xmlns="http://www.w3.org/2000/svg">
+  <image href="x" onerror="alert(1)"/>
 </svg>
