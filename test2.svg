@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <animate attributeName="onload" begin="0s" dur="1s" fill="freeze" values="alert('XSS')" />
+</svg>
